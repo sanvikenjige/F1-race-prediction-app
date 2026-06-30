@@ -1,0 +1,17 @@
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/.env
+backend/*.pkl
+backend/app/**/__pycache__/
+backend/app/ml/models/*.pkl
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env.production.local
+
+# System
+.DS_Store
+*.log
