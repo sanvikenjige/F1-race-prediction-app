@@ -3,10 +3,10 @@
 Real-time AI-powered Formula 1 race winner predictions using LightGBM and OpenF1 API.
 
 ## Features
-- ⚡ Sub-100ms inference
-- 📊 Real-time WebSocket updates
-- 🤖 ML-powered predictions
-- 🎨 Beautiful Next.js frontend
+-  Sub-100ms inference
+- Real-time WebSocket updates
+-  ML-powered predictions
+-  Next.js frontend
 
 ## Tech Stack
 - Backend: FastAPI + LightGBM
